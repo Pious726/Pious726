@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Pious726
+- 👋 Hi, I’m Tyler McDowell
 - 👀 I’m interested in Video Game Design and Software Development
 - 🌱 I’m currently learning Flutter and Mobile Development
 - 📫 How to reach me tjmcdowellbusiness@gmail.com
